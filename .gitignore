@@ -1,0 +1,74 @@
+__pycache__/
+*.py[cod]
+*$py.class
+pages/__pycache__
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# Pyre type checker
+.pyre/
+
+# IDE and tool-specific files
+.idea/
+.DS_Store
+
+# Miscellaneous
+/Screenshots
+qaseio.lock
+failures
+tests/build
+tests/qaseio.lock
+
+# Allure reports
+/allure-results
+/tests/allure-results
